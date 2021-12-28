@@ -10,7 +10,8 @@ RPN exercise developed by Eduardo Arenas
 
 ## Installation
 
-Install RVM: `\curl -sSL https://get.rvm.io | bash -s 1.29.10`. Run `rvm install ruby-2.7.2` to install ruby 2.7.
+Install RVM: `\curl -sSL https://get.rvm.io | bash -s 1.29.10`.
+Run `rvm install ruby-2.7.2` to install ruby 2.7.
 
 After cloning the repository,
 create a gemset: `cd ./rpn-exercise` (entering to the directory, the gemset will be created thanks to the files `.ruby-version` and `.ruby-gemset`)
